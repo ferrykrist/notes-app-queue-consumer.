@@ -1,0 +1,14 @@
+PGUSER=developer
+PGHOST=localhost
+PGPASSWORD="supersecretpassword"
+PGDATABASE=notes
+PGPORT=5432
+
+# nodemailer SMTP authentication
+SMTP_HOST=sandbox.smtp.mailtrap.io
+SMTP_PORT=2525
+SMTP_USER=eba7fc9ed750f9
+SMTP_PASSWORD=82d1028d8dad89
+
+# Message broker
+RABBITMQ_SERVER=amqp://localhost
